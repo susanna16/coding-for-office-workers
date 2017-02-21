@@ -12,3 +12,5 @@ print("hello")
 print("1")
 print(int("1"))
 print(int("1.5"))
+
+# 두번째로 듣는중
